@@ -6,7 +6,7 @@ I'm Connor Shults, aka Cylis Shults, aka CyPlayz! I'm a IT major, from Golconda 
 
 - [CyPlayz Discord Server](https://discord.gg/YjdkYr7)
 - [CyPlayz#4660](https://discord.com/users/)
-- [Gmail(Unlikely I will see it)](mailto:Nicedude@gmail.com)
+- [Gmail(Unlikely I will see it)](mailto:Nicedude1500@gmail.com)
 
 ## Stats
  [![HitCount](https://hits.dwyl.com/CyPlayz/CyPlayz.svg?style=flat-square)](http://hits.dwyl.com/CyPlayz/CyPlayz)
