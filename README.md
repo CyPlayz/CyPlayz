@@ -1,6 +1,6 @@
 <h1 align="center"> 👋Hi there, I'm CyPlayz!</a></h1>
 
-I'm Connor Shults, aka Cylis Shults, aka CyPlayz! I'm a IT major, from Golconda IL. Feel free to message me on Discord!
+I'm Connor Shults, aka CyPlayz! I'm a IT major from Golconda IL. Not currently working on any projects while I take classes but feel free to message me on Discord!
 
 ## Contact
 
