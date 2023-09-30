@@ -1,6 +1,6 @@
 <h1 align="center"> 👋Hi there, I'm CyPlayz!</a></h1>
 
-I'm Connor Shults, aka Cylis Shults, aka CyPlayz! I'm a 17-year-old insirping computer engineering major, from Golconda IL. If you wish to contact me, please direct message me on Discord below.
+I'm Connor Shults, aka Cylis Shults, aka CyPlayz! I'm a IT major, from Golconda IL. Feel free to message me on Discord!
 
 ## Contact
 
