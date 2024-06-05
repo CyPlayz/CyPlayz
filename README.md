@@ -6,6 +6,7 @@ My name is Cylis Shults, or just Cy! I'm a IT major from Southern IL. Working on
 
 - [CyPlayz Discord Server](https://discord.gg/YjdkYr7)
 - [Discord](https://discord.com/users/431607795343818752)
+- [X (formerly Twitter)](https://x.com/CyPlayzz)
 - [Email](mailto:Nicedude1500@gmail.com) (I'm unlikely to notice emails)
 
 ## Projects
