@@ -1,6 +1,6 @@
 <h1 align="center"> 👋Hi there, I'm CyPlayz!</a></h1>
 
-My name is Cylis Shults, or just Cy! I'm a IT major from Southern IL. Working on some hidden projects, not much going on. Feel free to message me on Discord!
+Hey there, my name is Cylis, or just Cy. I'm a tech nerd, a IT student, and software developer. I've been contributing on small projects and playing with hardware for almost 9 years now. I spend most of my free time playing video games or trying to learn more languages like C, Go, C++, and Node.js. I'm currently also looking into taking a B.S. in Computer Engineering.
 
 ## Contact
 
