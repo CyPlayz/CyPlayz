@@ -1,16 +1,15 @@
 <h1 align="center"> 👋Hi there, I'm CyPlayz!</a></h1>
 
-Hey there, my name is Cylis, or just Cy. I'm a tech nerd, a IT student, and software developer. I've been contributing on small projects and playing with hardware for almost 9 years now. I spend most of my free time playing video games or trying to learn more languages like C, Go, C++, and Node.js. I'm currently also looking into taking a B.S. in Computer Engineering.
-
+My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></u>! I’m currently a full-time student pursuing a degree in Computer Information Technology (CIT). Alongside college, I work part-time in IT and write small programs and applications in JavaScript, Node.js, and Python. I'm also currently trying to learn C and C#.
 ## Contact
 
-- [CyPlayz Discord Server](https://discord.gg/YjdkYr7)
-- [Discord](https://discord.com/users/431607795343818752)
-- [X (formerly Twitter)](https://x.com/CyPlayzz)
-- [Email](mailto:Nicedude1500@gmail.com) (I'm unlikely to notice emails)
+— [CyPlayz Discord Server](https://discord.gg/YjdkYr7)
+— [Personal Discord Profile](https://discord.com/users/431607795343818752)
+— [X](https://x.com/CyPlayzz)
+— [Email](mailto:business@cyplayz.com)
 
 ## Projects
-Coming soon.. (whenever I make something worth posting on GitHub)
+— [CyPlayz.com](https://cyplayz.com) My personal website made with Node.JS.
 
 ## View Count
  ![Visitor Count](https://profile-counter.glitch.me/CyPlayz/count.svg)
