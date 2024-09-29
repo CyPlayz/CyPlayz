@@ -3,13 +3,13 @@
 My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></u>! I’m currently a full-time student pursuing a degree in Computer Information Technology (CIT). Alongside college, I work part-time in IT and write small programs and applications in JavaScript, Node.js, and Python. I'm also currently trying to learn C and C#.
 ## Contact
 
-— [CyPlayz Discord Server](https://discord.gg/YjdkYr7)
-— [Personal Discord Profile](https://discord.com/users/431607795343818752)
-— [X](https://x.com/CyPlayzz)
-— [Email](mailto:business@cyplayz.com)
+- [CyPlayz Discord Server](https://discord.gg/YjdkYr7)
+- [Personal Discord Profile](https://discord.com/users/431607795343818752)
+- [X](https://x.com/CyPlayzz)
+- [Email](mailto:business@cyplayz.com)
 
 ## Projects
-— [CyPlayz.com](https://cyplayz.com) My personal website made with Node.JS.
+- [CyPlayz.com](https://cyplayz.com) My personal website made with Node.JS.
 
 ## View Count
  ![Visitor Count](https://profile-counter.glitch.me/CyPlayz/count.svg)
