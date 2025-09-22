@@ -14,7 +14,7 @@ My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></
 ## Stats
  ![](https://komarev.com/ghpvc/?username=cyplayz&color=brightgreen)
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyplayz&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyplayz&show_icons=true&theme=blue-green&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyplayz&layout=donut&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ## Badges Are Cool
 
