@@ -14,7 +14,7 @@ My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></
 ## Stats
  ![Visitor Count](https://profile-counter.glitch.me/CyPlayz/count.svg)
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyplayz)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyplayz&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ## Badges Are Cool
 
 ### General
