@@ -3,7 +3,7 @@
 My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></u>! I’m currently a full-time student pursuing a degree in Computer Information Technology (CIT). Alongside college, I work part-time in IT and write small programs and applications in JavaScript, Node.js, and Python. I'm also currently trying to learn C and C#.
 ## Contact
 
-- [CyPlayz Discord Server](https://discord.gg/YjdkYr7)
+
 - [Personal Discord Profile](https://discord.com/users/431607795343818752)
 - [X](https://x.com/CyPlayzz)
 - [Email](mailto:business@cyplayz.com)
@@ -16,6 +16,7 @@ My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></
 ## Badges Are Cool
 
 ### General
+![Unreal Engine Badge](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=fff&style=flat)
 ![Opera](https://img.shields.io/badge/Opera%20GX-EE2950.svg?style=for-the-badge&logo=Opera-GX&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 <br>
