@@ -12,7 +12,7 @@ My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></
 - [CyPlayz.com](https://cyplayz.com) My personal website made with Node.JS.
 
 ## Stats
- ![Visitor Count](https://profile-counter.glitch.me/CyPlayz/count.svg)
+ ![](https://komarev.com/ghpvc/?username=cyplayz&color=bright-green)
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyplayz&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ## Badges Are Cool
