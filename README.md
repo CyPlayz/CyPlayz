@@ -1,8 +1,7 @@
 <h1 align="center"> 👋Hi there, I'm <a href="https://cyplayz.com" target="_blank">CyPlayz</a>!</a></h1>
 
-My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></u>! I’m currently a full-time student pursuing a degree in Computer Information Technology (CIT). Alongside college, I work part-time in IT and write small programs and applications in JavaScript, Node.js, and Python. I'm also currently trying to learn C and C#.
+My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></u>! I’m currently a full-time student pursuing a degree in Computer Information Technology (CIT). Alongside college, I work part-time in IT and write small programs and applications in JavaScript and Node.js. I'm also currently trying to learn C++.
 ## Contact
-
 
 - [Personal Discord Profile](https://discord.com/users/431607795343818752)
 - [X](https://x.com/CyPlayzz)
@@ -22,12 +21,12 @@ My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
+<!-- ![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white) -->
 
 ### Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!-- ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) -->
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
