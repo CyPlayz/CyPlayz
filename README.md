@@ -1,4 +1,4 @@
-<h1 align="center"> 👋Hi there, I'm CyPlayz!</a></h1>
+<h1 align="center"> 👋Hi there, I'm [CyPlayz](https://cyplayz.com)!</a></h1>
 
 My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></u>! I’m currently a full-time student pursuing a degree in Computer Information Technology (CIT). Alongside college, I work part-time in IT and write small programs and applications in JavaScript, Node.js, and Python. I'm also currently trying to learn C and C#.
 ## Contact
@@ -11,8 +11,10 @@ My name is <b><i><u>Cylis</b></i></u>, but you can call me <b><i><u>Cy</b></i></
 ## Projects
 - [CyPlayz.com](https://cyplayz.com) My personal website made with Node.JS.
 
-## View Count
+## Stats
  ![Visitor Count](https://profile-counter.glitch.me/CyPlayz/count.svg)
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyplayz)](https://github.com/anuraghazra/github-readme-stats)
 ## Badges Are Cool
 
 ### General
